@@ -1,0 +1,51 @@
+#img{
+    position: absolute;
+width: 697px;
+height: 400px;
+left: 1678px;
+margin-top:200 px;
+
+transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+#logo{
+    height:90px;
+    width: 50px;
+}
+main>div>div>h2{
+    font-weight: 500px;
+font-size: 60px;
+line-height: 30px;
+}
+main>div>div>p{
+    font-weight: 200px;
+font-size: 20px;
+line-height: 30px;
+}
+main>#a{
+    position: absolute;
+width: 1582px;
+height: 91px;
+left: 75px;
+top: 2188px;
+font-weight: 200px;
+
+background: #FCAF02;
+}
+
+
+table, th, td{
+    border-collapse: collapse;
+    color:#FCAF02;
+  }
+ 
+  thead,th,td{
+    border: 1px solid #FCAF02;
+  }
+ 
+ 
+  input{
+    background-color:  #1E1E1E;
+  }
+  tfoot{
+    background-color: #FCAF02;
+  }
